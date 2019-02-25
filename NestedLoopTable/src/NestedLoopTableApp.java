@@ -16,6 +16,7 @@ public class NestedLoopTableApp {	//driver class
 			and continue the app with a (y/n) input from the user. Run the program at least once.
 			Ask for user input through the console, and print the result into the console.
 		*/
+		
 	}
 
 }
