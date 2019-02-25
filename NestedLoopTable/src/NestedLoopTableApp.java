@@ -32,6 +32,7 @@ public class NestedLoopTableApp {	//driver class
 			nlt.setNums(first, last);
 
 			//TODO: pyramid is printed using nested loops
+			nlt.printPyramid();
 			System.out.print("\n Print a new pyramid? (y/n)");
 			choice = input.nextLine();
 		}	//end while
